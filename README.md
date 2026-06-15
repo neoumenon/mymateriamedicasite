@@ -1,7 +1,5 @@
 # mymateriamedicasite
 
-Static legal pages for the [My Materia Medica](https://github.com/neoumenon/mymateriamedica) app, published via GitHub Pages.
-
 ## Pages
 
 | Path | Document |
