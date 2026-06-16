@@ -5,6 +5,7 @@
 | Path | Document |
 |------|----------|
 | `/` | Index of all legal documents |
+| `/support/` | Support (App Store / Play Store support URL) |
 | `/privacy/` | Privacy Policy |
 | `/terms/` | Terms of Use |
 | `/disclaimer/` | Medical Disclaimer |
