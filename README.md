@@ -6,6 +6,7 @@
 |------|----------|
 | `/` | Index of all legal documents |
 | `/support/` | Support (App Store / Play Store support URL) |
+| `/delete-account/` | Account & data deletion requests (Play Store Data Safety URL) |
 | `/privacy/` | Privacy Policy |
 | `/terms/` | Terms of Use |
 | `/disclaimer/` | Medical Disclaimer |
